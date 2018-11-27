@@ -1,0 +1,6 @@
+C:\Users\stefanmtvc\source\repos\GridGui_WF\GridGui.Persistence\bin\Debug\GridGui.Persistence.dll
+C:\Users\stefanmtvc\source\repos\GridGui_WF\GridGui.Persistence\bin\Debug\GridGui.Persistence.pdb
+C:\Users\stefanmtvc\source\repos\GridGui_WF\GridGui.Persistence\obj\Debug\GridGui.Persistence.csprojAssemblyReference.cache
+C:\Users\stefanmtvc\source\repos\GridGui_WF\GridGui.Persistence\obj\Debug\GridGui.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\stefanmtvc\source\repos\GridGui_WF\GridGui.Persistence\obj\Debug\GridGui.Persistence.dll
+C:\Users\stefanmtvc\source\repos\GridGui_WF\GridGui.Persistence\obj\Debug\GridGui.Persistence.pdb

@@ -1,0 +1,2 @@
+C:\Users\stefanmtvc\source\repos\GridGui_WF\GridGui.Library\obj\Debug\GridGui.Library.csprojAssemblyReference.cache
+C:\Users\stefanmtvc\source\repos\GridGui_WF\GridGui.Library\obj\Debug\GridGui.Library.csproj.CoreCompileInputs.cache

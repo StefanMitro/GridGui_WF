@@ -1,0 +1,10 @@
+C:\Users\stefanmtvc\source\repos\GridGui_WF\GridGui.UI\bin\Debug\GridGui.UI.exe.config
+C:\Users\stefanmtvc\source\repos\GridGui_WF\GridGui.UI\bin\Debug\GridGui.UI.exe
+C:\Users\stefanmtvc\source\repos\GridGui_WF\GridGui.UI\bin\Debug\GridGui.UI.pdb
+C:\Users\stefanmtvc\source\repos\GridGui_WF\GridGui.UI\obj\Debug\GridGui.UI.csprojAssemblyReference.cache
+C:\Users\stefanmtvc\source\repos\GridGui_WF\GridGui.UI\obj\Debug\GridGui.UI.Form1.resources
+C:\Users\stefanmtvc\source\repos\GridGui_WF\GridGui.UI\obj\Debug\GridGui.UI.Properties.Resources.resources
+C:\Users\stefanmtvc\source\repos\GridGui_WF\GridGui.UI\obj\Debug\GridGui.UI.csproj.GenerateResource.cache
+C:\Users\stefanmtvc\source\repos\GridGui_WF\GridGui.UI\obj\Debug\GridGui.UI.csproj.CoreCompileInputs.cache
+C:\Users\stefanmtvc\source\repos\GridGui_WF\GridGui.UI\obj\Debug\GridGui.UI.exe
+C:\Users\stefanmtvc\source\repos\GridGui_WF\GridGui.UI\obj\Debug\GridGui.UI.pdb
